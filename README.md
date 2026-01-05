@@ -47,8 +47,8 @@ Every second, the program:
      - **Better than or equal to the tender price**, depending on the side
 
 3. **Decision Logic**
-   - If both **liquidity and price conditions** are satisfied  
-   → the tender is **automatically accepted** on the RIT platform  
+   - If both **liquidity and price conditions** are satisfied:  
+      - the tender is **automatically accepted** on the RIT platform  
    - Otherwise, the tender is ignored
 
 ---
@@ -71,7 +71,7 @@ This design choice reflects real-world constraints where **API limitations** req
 
 ---
 
-## 🛠 Technologies Used
+## Language Used
 
 - **Python**
 
