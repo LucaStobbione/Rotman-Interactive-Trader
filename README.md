@@ -6,7 +6,8 @@ This project is a **partial automation trading script** developed for the **Rotm
 [Dynamic Order Arrival Case Brief (LT3)](https://rotmanfrtl.github.io/RIT%20-%20Case%20Brief%20-%20LT3%20-%20Dynamic%20Order%20Arrival.pdf)
 
 **Rotman Interactive Trader Platform**:  
-https://rotmaninteractive.trading/
+[Rotman Interactive Trader](https://www.rotman.utoronto.ca/faculty-and-research/education-labs/bmo-financial-group-finance-research-and-trading-lab/rit-market-simulator/)
+
 
 ---
 
